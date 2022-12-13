@@ -6,4 +6,4 @@ No módulo 18 é possível aprender sobre como fazer uma autenticação do Googl
 
 São exploradas também as funções de adicionar e 'commit' no Github, e alterações no arquivo README.md
 
-Já no módulo 19, aprende-se...
+Já no módulo 19, aprende-se sobre criação de branches e como trabalhar em versões de modo individual ou em grupo.
